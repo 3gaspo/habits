@@ -1,0 +1,5 @@
+{
+  "name": "HabitFlow Tracker",
+  "description": "A high-fidelity recurring task and habit tracker that uses immutable period snapshots to ensure historical data integrity. Supports daily, weekly, and monthly periods with detailed completion stats.",
+  "requestFramePermissions": []
+}
